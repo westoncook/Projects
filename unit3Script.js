@@ -28,5 +28,3 @@ function countdown(num){
       }
     }, 1000)
   }
-
-randomGame()
